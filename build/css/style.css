@@ -553,3 +553,292 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.m-\[25px\] {
+  margin: 25px;
+}
+
+.m-6 {
+  margin: 1.5rem;
+}
+
+.my-\[20px\] {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.my-\[16px\] {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.my-\[8px\] {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.my-\[24px\] {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.my-6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.my-7 {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.mt-\[65px\] {
+  margin-top: 65px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[48px\] {
+  height: 48px;
+}
+
+.h-\[615px\] {
+  height: 615px;
+}
+
+.h-\[240px\] {
+  height: 240px;
+}
+
+.h-\[450px\] {
+  height: 450px;
+}
+
+.w-\[295px\] {
+  width: 295px;
+}
+
+.w-\[343px\] {
+  width: 343px;
+}
+
+.w-\[302px\] {
+  width: 302px;
+}
+
+.w-\[237px\] {
+  width: 237px;
+}
+
+.w-\[342px\] {
+  width: 342px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-\[12px\] {
+  gap: 12px;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.rounded-t-lg {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.rounded-l-lg {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+.rounded-t-none {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.bg-\[\#3d8168\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(61 129 104 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#f3eae3\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 234 227 / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pr-\[20px\] {
+  padding-right: 20px;
+}
+
+.text-\[12px\] {
+  font-size: 12px;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[28px\] {
+  font-size: 28px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.text-\[32px\] {
+  font-size: 32px;
+}
+
+.font-\[500\] {
+  font-weight: 500;
+}
+
+.font-\[700\] {
+  font-weight: 700;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.leading-none {
+  line-height: 1;
+}
+
+.tracking-\[5px\] {
+  letter-spacing: 5px;
+}
+
+.text-\[\#3d8168\] {
+  --tw-text-opacity: 1;
+  color: rgb(61 129 104 / var(--tw-text-opacity));
+}
+
+.text-\[\#8a8d97\] {
+  --tw-text-opacity: 1;
+  color: rgb(138 141 151 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.line-through {
+  text-decoration-line: line-through;
+}
+
+.shadow {
+  --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.font-Montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.font-Fraunces {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+}
+
+.hover\:bg-\[\#1a4031\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(26 64 49 / var(--tw-bg-opacity));
+}
+
+@media (min-width: 1024px) {
+  .lg\:my-\[32px\] {
+    margin-top: 32px;
+    margin-bottom: 32px;
+  }
+
+  .lg\:my-\[26px\] {
+    margin-top: 26px;
+    margin-bottom: 26px;
+  }
+
+  .lg\:my-\[28px\] {
+    margin-top: 28px;
+    margin-bottom: 28px;
+  }
+
+  .lg\:mt-\[175px\] {
+    margin-top: 175px;
+  }
+
+  .lg\:h-\[450px\] {
+    height: 450px;
+  }
+
+  .lg\:w-\[600px\] {
+    width: 600px;
+  }
+
+  .lg\:w-\[237px\] {
+    width: 237px;
+  }
+
+  .lg\:w-\[212px\] {
+    width: 212px;
+  }
+
+  .lg\:flex-row {
+    flex-direction: row;
+  }
+
+  .lg\:rounded-t-none {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+
+  .lg\:rounded-l-lg {
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+  }
+
+  .lg\:text-\[32px\] {
+    font-size: 32px;
+  }
+}
